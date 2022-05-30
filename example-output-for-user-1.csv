@@ -1,0 +1,6 @@
+user_id,date,event,plan_id
+1,2021-01-05,Sign Up,0
+1,2021-01-15,Upgrade,35385
+1,2021-02-15,Renew,35385
+1,2021-03-15,Downgrade,75448
+1,2021-04-15,Expire,0
