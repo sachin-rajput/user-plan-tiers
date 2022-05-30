@@ -2,8 +2,8 @@
 
 ### NPM Library used:
 
-n-readlines: To read csv file line by line
-moment: To help formatting timestamps
+- n-readlines: To read csv file line by line
+- moment: To help formatting timestamps
 
 ### Installation:
 
